@@ -43,6 +43,10 @@
     {
       "id": "productivity",
       "name": "Productivity"
+    },
+    {
+      "id": "games",
+      "name": "Games"
     }
   ],
   "apps": [
@@ -413,6 +417,39 @@
         "Brew / npx install modals with clipboard copy",
         "Zero dependencies — pure HTML/CSS/JS",
         "Built with agentic engineering and vibecoding"
+      ],
+      "screenshots": []
+    },
+    {
+      "id": "galaksinin-muhafizlari",
+      "developer": "Asaf Akin",
+      "name": "Galaksinin Muhafızları",
+      "subtitle": "Galaksiyi Koru, Muhafızlarını Topla!",
+      "description": "A browser-based space action game. Defend the galaxy, collect guardians, upgrade your weapons, and fight through waves of enemies.",
+      "longDescription": "Galaksinin Muhafızları is a browser-based space action game built with pure HTML/CSS/JS. Use WASD to move, mouse to aim, and click to shoot. Features include a leveling system, in-game shop with upgrades (Mega Attack, Super Health, Light Speed, Titan Armor, Extra Ammo), the ability to summon knights, super powers, and life-steal mechanics. Fight through increasingly difficult waves, upgrade your guardian, and save the galaxy from darkness.",
+      "icon": null,
+      "iconEmoji": "🚀",
+      "iconStyle": {},
+      "category": [
+        "games",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/asafakin/oyun",
+      "homepage": "https://asafakin.github.io/oyun/savas-oyunu/",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "requirements": "Any modern browser",
+      "features": [
+        "WASD movement + mouse aiming",
+        "Wave-based enemy combat",
+        "In-game shop with 8 upgrades",
+        "Summon knight companions",
+        "Super power abilities",
+        "Leveling and progression system",
+        "Pure HTML/CSS/JS — no dependencies"
       ],
       "screenshots": []
     }
